@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.tabs {
+
+  background: white;
+
+  box-shadow: 14px 14px 14px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  border-radius: 5px;
+
+}
