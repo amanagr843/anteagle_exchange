@@ -18,6 +18,12 @@ const config = {
       value: "Kraken",
       name: "Kraken",
       desc: "Kraken",
+    },
+    
+    {
+      value: "Bitfinex",
+      name: "Bitfinex",
+      desc: "Bitfinex",
     }
   ],
   symbols_types: [
